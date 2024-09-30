@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihalic2040&label=Profile%20views&color=0e75b6&style=flat" alt="mihalic2040" /> </p>
 
-- 🔭 I’m currently working on [Hub](https://github.com/Mihalic2040/Hub)
+- 🔭 I'm currently working on improving myself.
 
-- 📫 How to reach me **mihabevza111@gmail.com**
+- 📫 How to reach me Gmail: **mihabevza111@gmail.com** Discord: **mihalic2040**
 
 - ⚡ Fun fact **router bli blup**
 
