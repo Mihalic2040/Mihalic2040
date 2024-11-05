@@ -15,4 +15,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 And have a keyboard and a monitor.
-And a laptop! Maybe even in a mouse
+And a laptop! Maybe even a mouse
