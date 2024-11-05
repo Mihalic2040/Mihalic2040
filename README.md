@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mihalic2040</h1>
+<h1 align="center">Call me Miha</h1>
 <h3 align="center">Bla bla bla developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihalic2040&label=Profile%20views&color=0e75b6&style=flat" alt="mihalic2040" /> </p>
+- I'm currently working on improving myself. And my bank account....
 
-- 🔭 I'm currently working on improving myself.
-
-- 📫 How to reach me Gmail: **mihabevza111@gmail.com** Discord: **mihalic2040**
-
-- ⚡ Fun fact **router bli blup**
+- How to reach me
+  -  Mail: **mihabevza111@gmail.com**
+  -  Discord: **mihalic2040**
+  -  Tg: @Mihalic2040
+- Fun fact: I'm a tech masochist
 
 
 <p align="left">
